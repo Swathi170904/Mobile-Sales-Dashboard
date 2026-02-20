@@ -4,7 +4,8 @@ The Project aims to connect with a Business Intelligence and Data Visualization 
 <h2 align="center">📊 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="<img width="1239" height="695" alt="Screenshot 2026-02-20 121935" src="https://github.com/user-attachments/assets/8a996059-6722-4939-8d7a-0afe77e38322" />
+  <img src="<img width="1239" height="695" alt="Dashboard" src="https://github.com/user-attachments/assets/06ed9689-b97c-4f39-9357-3924672b31c1" />
+" />
 " width="800">
 </p>
 

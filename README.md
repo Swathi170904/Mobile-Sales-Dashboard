@@ -1,5 +1,5 @@
 The Project aims to connect with a Business Intelligence and Data Visualization Report Of Mobile Sales
-<span style="font-family:'Times New Roman'; text-decoration:underline;"</span>
+
 
 
 <span style="font-family:'Times New Roman';">The Mobile Sales Dashboard is an interactive analytics tool built with <strong>Python</strong> and <strong>Streamlit</strong> to provide actionable insights into mobile sales data. It enables users to monitor revenue trends, evaluate product performance, and understand customer behavior through an intuitive interface with filters for brand, model, region, and date.</span>

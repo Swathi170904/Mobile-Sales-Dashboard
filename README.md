@@ -30,23 +30,3 @@
 
 <span style="font-family:'Times New Roman';">The project demonstrates expertise in data modeling, creation of DAX measures for total sales and transaction counts, visualization design using Streamlit with KPIs, slicers, and map charts, as well as data engineering with Pandas, Matplotlib, Seaborn, and Plotly. It highlights analytical thinking in generating actionable business insights from sales, regional performance, product trends, and customer behavior.</span>
 
-<span style="font-family:'Times New Roman'; text-decoration:underline;">🚀 How to Run</span>
-
-<span style="font-family:'Times New Roman';">Clone the repository, install dependencies from <code>requirements.txt</code>, and run the dashboard using Streamlit. Open <code>http://localhost:8501
-</code> in a web browser to explore the dashboard.</span>
-
-<span style="font-family:'Times New Roman'; text-decoration:underline;">📁 Project Structure</span>
-
-<span style="font-family:'Times New Roman';">The project structure includes the main application <code>app.py</code>, dataset folder <code>data/mobile_sales.csv</code>, assets folder for images and charts, <code>requirements.txt</code> for dependencies, and <code>README.md</code> for project documentation.</span>
-
-<span style="font-family:'Times New Roman'; text-decoration:underline;">🔮 Future Enhancements</span>
-
-<span style="font-family:'Times New Roman';">Future improvements include predictive sales forecasting using machine learning, regional and store-level analysis for granular insights, real-time updates from live data sources, exportable PDF or Excel reports, and alerts for peak sales periods. These enhancements will make the dashboard an even more powerful tool for business decision-making.</span>
-
-<span style="font-family:'Times New Roman'; text-decoration:underline;">🤝 Contributing</span>
-
-<span style="font-family:'Times New Roman';">Contributions, suggestions, and feedback are welcome. Fork the repository, create a new branch for your feature, commit changes, push to your branch, and open a pull request for review.</span>
-
-<span style="font-family:'Times New Roman'; text-decoration:underline;">📄 License</span>
-
-<span style="font-family:'Times New Roman';">This project is licensed under the MIT License. See <code>LICENSE</code> for details.</span>

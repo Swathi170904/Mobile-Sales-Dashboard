@@ -1,6 +1,7 @@
 <span style="font-family:'Times New Roman'; text-decoration:underline;">📱 Mobile Sales Dashboard</span>
 
 <span style="font-family:'Times New Roman';">The Mobile Sales Dashboard is an interactive analytics tool built with <strong>Python</strong> and <strong>Streamlit</strong> to provide actionable insights into mobile sales data. It enables users to monitor revenue trends, evaluate product performance, and understand customer behavior through an intuitive interface with filters for brand, model, region, and date.</span>
+View the interactive dashboard [here](https://github.com/Swathi170904/Mobile-Sales-Dashboard/blob/main/SALES_REPORT.pbix)
 
 <span style="font-family:'Times New Roman'; text-decoration:underline;">🔹 Key Performance Metrics</span>
 

@@ -1,6 +1,12 @@
-The Project aims to connect with a Business Intelligence and Data Visualization Report Of <B>MOBILE SALES DASHBOARD</B>
+The Project aims to connect with a Business Intelligence and Data Visualization Report
 
+<B>MOBILE SALES DASHBOARD-2021</B>
+<h2 align="center">📊 Dashboard Preview</h2>
 
+<p align="center">
+  <img src="<img width="1239" height="695" alt="Screenshot 2026-02-20 121935" src="https://github.com/user-attachments/assets/8a996059-6722-4939-8d7a-0afe77e38322" />
+" width="800">
+</p>
 
 <span style="font-family:'Times New Roman';">The Mobile Sales Dashboard is an interactive analytics tool built with <strong>Python</strong> and <strong>Streamlit</strong> to provide actionable insights into mobile sales data. It enables users to monitor revenue trends, evaluate product performance, and understand customer behavior through an intuitive interface with filters for brand, model, region, and date.</span>
 View the interactive dashboard-->[Mobile Sales 2021](https://github.com/Swathi170904/Mobile-Sales-Dashboard/blob/main/SALES_REPORT.pbix)

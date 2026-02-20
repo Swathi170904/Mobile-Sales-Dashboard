@@ -1,36 +1,58 @@
-The Project aims to connect with a Business Intelligence and Data Visualization Report
+<h2 align="center" style="font-family:'Times New Roman';"><u>MOBILE SALES DASHBOARD - 2021</u></h2>
 
-<B>MOBILE SALES DASHBOARD-2021</B>
+<p style="font-family:'Times New Roman'; text-align:justify;">
+The project aims to connect business intelligence with a comprehensive data visualization report that enables strategic decision-making through structured sales analysis.
+</p>
 
+<p style="font-family:'Times New Roman'; text-align:justify;">
+The Mobile Sales Dashboard is an interactive analytics tool built with <strong>Python</strong> and <strong>Streamlit</strong> to provide actionable insights into mobile sales data. It enables users to monitor revenue trends, evaluate product performance, and understand customer behavior through an intuitive interface with filters for brand, model, region, and date.
+</p>
 
-<span style="font-family:'Times New Roman';">The Mobile Sales Dashboard is an interactive analytics tool built with <strong>Python</strong> and <strong>Streamlit</strong> to provide actionable insights into mobile sales data. It enables users to monitor revenue trends, evaluate product performance, and understand customer behavior through an intuitive interface with filters for brand, model, region, and date.</span>
-View the interactive dashboard-->[Mobile Sales 2021](https://github.com/Swathi170904/Mobile-Sales-Dashboard/blob/main/SALES_REPORT.pbix)
+<p style="font-family:'Times New Roman'; text-align:justify;">
+View the interactive dashboard → 
+<a href="https://github.com/Swathi170904/Mobile-Sales-Dashboard/blob/main/SALES_REPORT.pbix">Mobile Sales 2021</a>
+</p>
 
-<span style="font-family:'Times New Roman'; text-decoration:underline;">1. Key Performance Metrics</span>
+<br>
 
-<span style="font-family:'Times New Roman';">The dashboard highlights total sales of $729M, aggregate quantity sold over twelve months, total transactions, and the average unit price. Analysis indicates that high revenue combined with average pricing reflects a high-volume, high-velocity market strategy, where small pricing adjustments significantly influence profit margins.</span>
+<h3 style="font-family:'Times New Roman';"><u>1. Key Performance Metrics</u></h3>
 
-<span style="font-family:'Times New Roman'; text-decoration:underline;">2. Regional Performance Insights</span>
+<p style="font-family:'Times New Roman'; text-align:justify;">
+The dashboard highlights total sales of $729M, aggregate quantity sold over twelve months, total transactions, and the average unit price. The analysis indicates that high revenue combined with average pricing reflects a high-volume, high-velocity market strategy, where small pricing adjustments significantly influence profit margins.
+</p>
 
-<span style="font-family:'Times New Roman';">Delhi serves as the primary revenue hub, while Mumbai is a secondary market with lower relative volume. Resource allocation towards high-performing regions such as Delhi ensures more effective capital deployment, inventory management, and marketing strategy, avoiding diluted impact from equal distribution across regions.</span>
+<h3 style="font-family:'Times New Roman';"><u>2. Regional Performance Insights</u></h3>
 
-<span style="font-family:'Times New Roman'; text-decoration:underline;">3.Time-Based Sales Trends</span>
+<p style="font-family:'Times New Roman'; text-align:justify;">
+Delhi serves as the primary revenue hub, while Mumbai operates as a secondary market with comparatively lower volume. Strategic resource allocation toward high-performing regions such as Delhi ensures more effective capital deployment, optimized inventory management, and focused marketing execution.
+</p>
 
-<span style="font-family:'Times New Roman';">Monthly analysis identifies long-term growth patterns, while daily drill-down reveals high-velocity sales days, such as weekends. These insights support proactive inventory planning, staffing optimization, and logistics readiness during peak demand periods.</span>
+<h3 style="font-family:'Times New Roman';"><u>3. Time-Based Sales Trends</u></h3>
 
-<span style="font-family:'Times New Roman'; text-decoration:underline;">4. Brand & Model Performance</span>
+<p style="font-family:'Times New Roman'; text-align:justify;">
+Monthly analysis identifies long-term growth patterns, while daily drill-down insights reveal high-velocity sales periods such as weekends. These findings support proactive inventory planning, workforce optimization, and logistics readiness during peak demand cycles.
+</p>
 
-<span style="font-family:'Times New Roman';">Motorola emerges as the top-performing brand, with the top three models contributing the majority of revenue. Focusing marketing and supply chain efforts on these key models maximizes ROI and reduces operational complexity, while long-tail models are managed efficiently to maintain inventory balance.</span>
+<h3 style="font-family:'Times New Roman';"><u>4. Brand & Model Performance</u></h3>
 
-<span style="font-family:'Times New Roman'; text-decoration:underline;">5. Customer Experience & Payments</span>
+<p style="font-family:'Times New Roman'; text-align:justify;">
+Motorola emerges as the top-performing brand, with the leading three models contributing the majority of revenue. Concentrating marketing initiatives and supply chain management on these high-impact products maximizes return on investment while maintaining operational efficiency.
+</p>
 
-<span style="font-family:'Times New Roman';">Customer ratings range from one to five stars, indicating overall service quality, while payment analysis shows UPI as the primary digital method and cash as secondary. Strong adoption of digital payments reduces transaction friction, improves conversion rates, and enhances overall customer experience, particularly in urban markets.</span>
+<h3 style="font-family:'Times New Roman';"><u>5. Customer Experience & Payments</u></h3>
 
-<span style="font-family:'Times New Roman'; text-decoration:underline;">6. Data Engineering & Governance</span>
+<p style="font-family:'Times New Roman'; text-align:justify;">
+Customer ratings range from one to five stars, reflecting overall service quality, while payment analysis indicates UPI as the dominant digital method and cash as a secondary option. Strong adoption of digital payments enhances transaction efficiency, reduces friction, and improves customer satisfaction, particularly within urban markets.
+</p>
 
-<span style="font-family:'Times New Roman';">The dashboard implements custom sales metrics using SUMX to handle missing total sales data, reconstructs unified date columns from day, month, and year fields, and normalizes data for consistent reporting. These practices ensure the dashboard functions as a reliable single source of truth for executive decision-making.</span>
+<h3 style="font-family:'Times New Roman';"><u>6. Data Engineering & Governance</u></h3>
 
-<span style="font-family:'Times New Roman'; text-decoration:underline;">7. Requirements Used </span>
+<p style="font-family:'Times New Roman'; text-align:justify;">
+The dashboard implements custom sales metrics using advanced aggregation logic to handle missing values, reconstructs unified date columns from individual components, and applies normalization techniques to ensure consistent reporting. These practices establish the dashboard as a reliable single source of truth for executive-level decision-making.
+</p>
 
-<span style="font-family:'Times New Roman';">The project demonstrates expertise in data modeling, creation of DAX measures for total sales and transaction counts, visualization design using Streamlit with KPIs, slicers, and map charts, as well as data engineering with Pandas, Matplotlib, Seaborn, and Plotly. It highlights analytical thinking in generating actionable business insights from sales, regional performance, product trends, and customer behavior.</span>
+<h3 style="font-family:'Times New Roman';"><u>7. Technical Requirements & Skills Applied</u></h3>
 
+<p style="font-family:'Times New Roman'; text-align:justify;">
+The project demonstrates expertise in data modeling, DAX-based metric creation, interactive visualization development using Streamlit with KPIs and slicers, and data engineering through Pandas, Matplotlib, Seaborn, and Plotly. It reflects strong analytical thinking in transforming raw sales data into actionable business insights across revenue performance, regional distribution, product trends, and customer behavior.
+</p>
